@@ -1,0 +1,14 @@
+# Kodi Media Center language file
+# Addon Name: lcdd
+# Addon id: service.lcdd
+# Addon Provider: Team LibreELEC
+msgid ""
+msgstr ""
+
+msgctxt "#30000"
+msgid "Configuration"
+msgstr ""
+
+msgctxt "#30001"
+msgid "LCD driver"
+msgstr ""

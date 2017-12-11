@@ -1,0 +1,78 @@
+# Kodi Media Center language file
+# Addon Name: librespot
+# Addon id: service.librespot
+# Addon Provider: Team LibreELEC
+msgid ""
+msgstr ""
+
+msgctxt "#30000"
+msgid "Librespot"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Bit rate"
+msgstr ""
+
+msgctxt "#30002"
+msgid "-"
+msgstr ""
+
+msgctxt "#30003"
+msgid "96"
+msgstr ""
+
+msgctxt "#30004"
+msgid "160"
+msgstr ""
+
+msgctxt "#30005"
+msgid "320"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Output"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Username"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Discovery mode (set username and password to disable)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "ALSA"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Configuration wizard"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Playback device"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Playback route"
+msgstr ""
+
+msgctxt "#30014"
+msgid "auto detect"
+msgstr ""
+
+msgctxt "#30015"
+msgid "headphone jack"
+msgstr ""
+
+msgctxt "#30016"
+msgid "HDMI"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Could not find a playback device"
+msgstr ""

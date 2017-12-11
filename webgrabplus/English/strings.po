@@ -1,0 +1,18 @@
+# Kodi Media Center language file
+# Addon Name: webgrabplus
+# Addon id: service.webgrabplus
+# Addon Provider: Team LibreELEC
+msgid ""
+msgstr ""
+
+msgctxt "#30000"
+msgid "systemd-run"
+msgstr ""
+
+msgctxt "#30001"
+msgid "--on-active"
+msgstr ""
+
+msgctxt "#30002"
+msgid "--on-calendar"
+msgstr ""
